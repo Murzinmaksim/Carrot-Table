@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\Carrot_Table.staticwebassets.runtime.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\Carrot_Table.exe
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\Carrot_Table.deps.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\Carrot_Table.runtimeconfig.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\Carrot_Table.dll
+C:\Users\User\source\repos\Carrot Table\Carrot Table\bin\Debug\net8.0\Carrot_Table.pdb
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot Table.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot Table.AssemblyInfo.cs
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot Table.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot_Table.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets\msbuild.Carrot_Table.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets\msbuild.build.Carrot_Table.props
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Carrot_Table.props
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Carrot_Table.props
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\scopedcss\bundle\Carrot_Table.styles.css
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\scopedcss\projectbundle\Carrot_Table.bundle.scp.css
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot_Table.dll
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\refint\Carrot_Table.dll
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot_Table.pdb
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\Carrot Table.genruntimeconfig.cache
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Debug\net8.0\ref\Carrot_Table.dll

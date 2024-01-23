@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Carrot_Table/1.0.0": {
+        "runtime": {
+          "Carrot_Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carrot_Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

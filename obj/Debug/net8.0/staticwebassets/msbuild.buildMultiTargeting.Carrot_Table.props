@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Carrot_Table.props" />
+</Project>

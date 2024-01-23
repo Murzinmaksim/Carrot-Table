@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Release\net8.0\win-x64\PubTmp\Out\Carrot_Table.pdb
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Release\net8.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\User\source\repos\Carrot Table\Carrot Table\obj\Release\net8.0\win-x64\PubTmp\Out\Carrot_Table.exe
